@@ -18,7 +18,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Epidemic.API.Listing\Epidemic.API.Listing.csproj" />
-    <ProjectReference Include="..\Epidemic.Domain\Epidemic.Shared.csproj" />
+    <ProjectReference Include="..\Epidemic.Data\Epidemic.Data.csproj" />
+    <ProjectReference Include="..\Epidemic.Shared\Epidemic.Shared.csproj" />
   </ItemGroup>
 
 </Project>
